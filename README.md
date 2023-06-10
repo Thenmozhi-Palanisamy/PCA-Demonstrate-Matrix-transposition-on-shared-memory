@@ -295,9 +295,9 @@ int main(int argc, char **argv)
     CHECK(cudaDeviceReset());
     return EXIT_SUCCESS;
 }
-```
-## Output:
 ``
+## Output:
+`
 root@MidPC:/home/student/Desktop# ./a.out
 ./a.out at device 0: NVIDIA GeForce GTX 1660 SUPER with Bank Mode:4-Byte <<< grid (1,1) block (16,16)>>>
 root@MidPC:/home/student/Desktop# nvprof ./a.out
