@@ -331,7 +331,7 @@ root@MidPC:/home/student/Desktop# nvprof ./a.out
                     0.00%  2.1600us         3     720ns     180ns  1.7500us  cuDeviceGetCount
                     0.00%     750ns         2     375ns     170ns     580ns  cuDeviceGet
                     0.00%     240ns         1     240ns     240ns     240ns  cuDeviceGetUuid
-   ``
+   `````
  ## output                
 ![image](https://github.com/Thenmozhi-Palanisamy/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/95198708/7a68b628-969a-4826-8eb8-889fb47ab71f)
 
